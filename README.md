@@ -5,7 +5,7 @@
 ---
 
 ## 👨‍💻 About Me  
-🎓 Passionate **Software Engineering Student**  
+🎓 Passionate **Software Engineering**  
 💻 **Full Stack Engineer** — *Frontend (React) | Backend (Laravel & SpringBoot)*  
 📚 Strong foundation in **C, C++, Java, C#, SQL (PostgreSQL, MySQL, Oracle)**  
 🚀 Love building scalable, secure, and modern applications  
@@ -15,10 +15,7 @@
 ## 🔗 Connect with Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abdelmonim-saimek/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
-  </a>
-  <a href="https://github.com/AbdelmonimSaimek" target="_blank">
+  <a href="https://github.com/slowlygo2025" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="40" width="40" />
   </a>
   <a href="mailto:abdelmonim.saimek@example.com" target="_blank">
@@ -39,11 +36,11 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelmonimSaimek&layout=compact&title_color=00c8ff&text_color=0f4c75&icon_color=00c8ff&bg_color=ffffff&border_color=00c8ff" alt="Most Used Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slowlygo2025&layout=compact&title_color=00c8ff&text_color=0f4c75&icon_color=00c8ff&bg_color=ffffff&border_color=00c8ff" alt="Most Used Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdelmonimSaimek&show_icons=true&title_color=00c8ff&text_color=0f4c75&icon_color=00c8ff&bg_color=ffffff&border_color=00c8ff" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=slowlygo2025&show_icons=true&title_color=00c8ff&text_color=0f4c75&icon_color=00c8ff&bg_color=ffffff&border_color=00c8ff" alt="GitHub Stats"/>
 </p>
 
 ---
