@@ -18,7 +18,7 @@
   <a href="https://github.com/slowlygo2025" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="40" width="40" />
   </a>
-  <a href="mailto:abdelmonim.saimek@example.com" target="_blank">
+  <a href="mailto:saimek.business@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" height="40" width="40" />
   </a>
 </p>
